@@ -29,7 +29,7 @@ Prerequisites:
 
 Clone repository:
 
-    git clone https://github.com/kania99/RPN_Calculator.git
+    git clone https://github.com/maciejkaniewski/RPN_Calculator.git
 
 Create `build` directory and launch `CMake`:
 
